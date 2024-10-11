@@ -9,7 +9,7 @@
 
 - 🟡 I’m looking for help with **My website**
 
-- 👨‍💻 All of my projects are available at [**my website**/](https://pauytrh.github.io/my-website1/)
+- 👨‍💻 All of my projects are available at [**my website**](https://pauytrh.github.io/my-website1/)
 
 - 🔵 How to reach me **https://discord.com/users/1147880980678463619**
 
